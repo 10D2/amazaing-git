@@ -1,4 +1,4 @@
-const a= '1234567890';
+const a= '1234567890 ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
 
 console.log(a);
