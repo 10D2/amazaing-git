@@ -1,4 +1,4 @@
-const a= 'QUE TAL';
+const a= 'QUE TAL ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
 
 console.log(a);
