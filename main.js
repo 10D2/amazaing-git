@@ -1,4 +1,4 @@
-const a= '1234567890 ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+const a= 'COMO ESTAS?';
 
 
 console.log(a);
